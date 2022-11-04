@@ -1,0 +1,19 @@
+{
+  "name": "curso-asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgavirias13/curso-asincronismo.git"
+  },
+  "author": "Juan Pablo Gaviria <jgavirias13@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgavirias13/curso-asincronismo/issues"
+  },
+  "homepage": "https://github.com/jgavirias13/curso-asincronismo#readme"
+}
